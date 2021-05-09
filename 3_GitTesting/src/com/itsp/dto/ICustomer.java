@@ -10,6 +10,7 @@ public class ICustomer {
  
  private int c;
  private float t3;
+ private float e;
  
  
 }
